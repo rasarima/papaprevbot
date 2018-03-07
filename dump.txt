@@ -1,0 +1,24 @@
+Caro(a) DX.COM
+
+Agradecemos seu contato. Ele contribui para que continuemos aprimorando nossos serviços. Em breve, responderemos sua solicitação.
+
+Por favor, anote o número do seu protocolo: 88217028, referente ao objeto:
+RS948195535NL
+
+
+Dados de sua manifestação
+
+Mensagem enviada por: DX.COM
+Para: Correios
+Data: Segunda-feira, 19/02/2018
+
+Atenciosamente, Central de Atendimento dos Correios
+
+pinChatMessage(<chat_id>, <message_id>)
+
+
+5628c6d69a1dcb1
+1400757da50b71080be9cda491ab9aec00ca23c8
+
+select LOCAL.nome, count(idl) v from VOTOS join LOCAL on VO
+TOS.idl = LOCAL.ID where VOTOS.IDA=2122018 group by local.NOME 
